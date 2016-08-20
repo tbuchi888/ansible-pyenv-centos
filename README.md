@@ -7,7 +7,7 @@
 You can do the following in root account for CentOS6 by ansible and Vagrant(ansible provisioner).
 
 1. Install pyenv
-2. Install python ver.2.7.8
+2. Install python ver.2.7.8 on pyenv
 
 ## Verification Environment
 Ansible provisioner and Vagrant,Virtulbox Host
