@@ -1,6 +1,6 @@
 # ansible-pyenv-centos
 - This is Ansible playbook + Vagrantfile to install pyenv on CentOS.
-- Please refer to the following articles of Japanese tech blog Qiita for the description in Japanese.
+- Please refer to the following articles in the Japanese tech blog Qiita , if you want description in Japanese.
   - http://qiita.com/tbuchi888/items/d44d15dcc6f63ae440d9
 
 ## Features
