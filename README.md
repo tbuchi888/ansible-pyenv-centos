@@ -1,14 +1,13 @@
 # ansible-pyenv-centos
 - This is Ansible playbook + Vagrantfile to install pyenv on CentOS.
-- This README.md is Description for article on the Japanese tech blog qiita.
+- Please refer to the following articles of Japanese tech blog Qiita for the description in Japanese.
   - http://qiita.com/tbuchi888/items/d44d15dcc6f63ae440d9
 
-
 ## Features
-you can do the following in root account for CentOS6 by ansible and Vagrant(ansible provisioner).
+You can do the following in root account for CentOS6 by ansible and Vagrant(ansible provisioner).
 
-1. install pyenv
-2. install python ver.2.7.8
+1. Install pyenv
+2. Install python ver.2.7.8
 
 ## Verification Environment
 Ansible provisioner and Vagrant,Virtulbox Host
